@@ -1,0 +1,241 @@
+alert_id,land_cover,nearby_activity,alert_area_ha,distance_to_road_km,distance_to_settlement_km,ndvi_change,driver
+A0001,Forest edge,Farming,0.66,0.27,5.67,-0.439,Agriculture
+A0002,Shrubland,Farming,0.93,1.8,2.49,-0.33,Agriculture
+A0003,Forest edge,Timber,0.34,1.29,8.48,-0.56,Logging
+A0004,Forest edge,Timber,0.97,2.46,7.08,-0.496,Logging
+A0005,Dense forest,Timber,2.68,2.09,3.36,-0.539,Logging
+A0006,Dense forest,Construction,1.35,1.53,0.99,-0.471,Infrastructure
+A0007,Forest edge,Farming,1.81,3.44,4.42,-0.283,Agriculture
+A0008,Forest edge,Timber,1.22,4.4,8.05,-0.301,Logging
+A0009,Forest edge,Farming,0.49,2.57,2.06,-0.389,Agriculture
+A0010,Dense forest,Timber,0.52,2.65,12.5,-0.324,Logging
+A0011,Shrubland,Farming,3.27,1.41,1.78,-0.444,Agriculture
+A0012,Forest edge,Timber,0.68,4.75,7.56,-0.304,Logging
+A0013,Forest edge,Timber,1.57,5.24,11.17,-0.346,Logging
+A0014,Forest edge,Construction,1.1,1.93,0.25,-0.325,Infrastructure
+A0015,Dense forest,Timber,0.33,4.9,8.5,-0.286,Logging
+A0016,Shrubland,Farming,0.72,3.41,3.11,-0.233,Agriculture
+A0017,Forest edge,Timber,2.69,5.06,12.42,-0.512,Logging
+A0018,Forest edge,Farming,2.74,2.64,2.77,-0.538,Agriculture
+A0019,Forest edge,Timber,1.54,3.07,3.83,-0.555,Logging
+A0020,Forest edge,Timber,0.27,5.9,8.17,-0.292,Logging
+A0021,Dense forest,Timber,1.51,1.71,14.88,-0.549,Logging
+A0022,Forest edge,Farming,1.8,0.66,4.95,-0.363,Agriculture
+A0023,Forest edge,Timber,2.0,5.71,2.42,-0.689,Logging
+A0024,Shrubland,Farming,2.91,1.7,5.7,-0.494,Agriculture
+A0025,Dense forest,Construction,3.89,1.82,2.46,-0.227,Infrastructure
+A0026,Forest edge,Timber,1.64,4.5,2.78,-0.584,Logging
+A0027,Forest edge,Construction,0.55,1.16,0.97,-0.266,Infrastructure
+A0028,Forest edge,Construction,0.67,1.68,3.25,-0.4,Infrastructure
+A0029,Forest edge,Construction,0.65,0.6,3.21,-0.633,Infrastructure
+A0030,Dense forest,Construction,2.81,0.74,0.47,-0.3,Infrastructure
+A0031,Forest edge,Construction,4.95,1.87,2.07,-0.551,Infrastructure
+A0032,Dense forest,Construction,3.27,0.6,2.32,-0.203,Infrastructure
+A0033,Forest edge,Timber,0.4,1.74,2.68,-0.609,Logging
+A0034,Shrubland,Farming,1.92,1.28,5.74,-0.62,Agriculture
+A0035,Forest edge,Timber,1.67,5.76,4.15,-0.408,Logging
+A0036,Forest edge,Timber,1.16,4.48,8.73,-0.495,Logging
+A0037,Dense forest,Construction,1.02,0.54,2.49,-0.292,Infrastructure
+A0038,Forest edge,Farming,1.48,3.03,1.16,-0.53,Agriculture
+A0039,Dense forest,Construction,1.41,1.92,1.51,-0.172,Infrastructure
+A0040,Dense forest,Construction,4.63,0.61,0.43,-0.392,Infrastructure
+A0041,Forest edge,Timber,2.64,7.53,6.32,-0.609,Logging
+A0042,Dense forest,Construction,1.59,0.54,1.61,-0.19,Infrastructure
+A0043,Dense forest,Timber,0.62,3.51,9.05,-0.6,Logging
+A0044,Forest edge,Farming,1.32,3.16,4.22,-0.261,Agriculture
+A0045,Forest edge,Timber,1.1,4.46,5.57,-0.298,Logging
+A0046,Forest edge,Farming,2.24,2.37,2.74,-0.544,Agriculture
+A0047,Forest edge,Timber,2.65,2.35,4.51,-0.393,Logging
+A0048,Forest edge,Farming,3.07,1.8,4.44,-0.343,Agriculture
+A0049,Forest edge,Farming,0.62,2.14,2.4,-0.64,Agriculture
+A0050,Shrubland,Farming,3.08,1.78,4.39,-0.608,Agriculture
+A0051,Forest edge,Construction,1.96,0.84,1.47,-0.645,Infrastructure
+A0052,Dense forest,Timber,2.0,3.74,2.72,-0.334,Logging
+A0053,Dense forest,Construction,4.63,1.15,1.43,-0.282,Infrastructure
+A0054,Dense forest,Construction,3.11,1.2,1.54,-0.619,Infrastructure
+A0055,Forest edge,Farming,1.63,2.14,1.46,-0.23,Agriculture
+A0056,Forest edge,Construction,1.51,1.22,0.77,-0.473,Infrastructure
+A0057,Shrubland,Farming,1.76,2.5,0.79,-0.617,Agriculture
+A0058,Forest edge,Farming,2.26,3.65,3.72,-0.39,Agriculture
+A0059,Dense forest,Timber,0.99,4.55,2.4,-0.674,Logging
+A0060,Dense forest,Timber,0.57,1.58,12.03,-0.361,Logging
+A0061,Dense forest,Construction,3.78,0.67,0.99,-0.589,Infrastructure
+A0062,Forest edge,Timber,2.13,6.57,10.61,-0.614,Logging
+A0063,Dense forest,Construction,1.61,0.27,1.76,-0.154,Infrastructure
+A0064,Dense forest,Timber,1.93,6.34,10.27,-0.623,Logging
+A0065,Forest edge,Construction,1.81,1.35,0.88,-0.697,Infrastructure
+A0066,Dense forest,Construction,4.36,0.32,0.81,-0.71,Infrastructure
+A0067,Shrubland,Farming,1.36,0.41,2.63,-0.315,Agriculture
+A0068,Dense forest,Timber,2.73,2.46,8.4,-0.455,Logging
+A0069,Dense forest,Construction,2.79,1.62,2.36,-0.178,Infrastructure
+A0070,Forest edge,Timber,1.86,3.67,4.34,-0.59,Logging
+A0071,Dense forest,Timber,1.39,0.89,5.74,-0.455,Logging
+A0072,Shrubland,Farming,0.4,3.65,3.43,-0.263,Agriculture
+A0073,Dense forest,Construction,2.86,0.87,1.11,-0.79,Infrastructure
+A0074,Forest edge,Timber,1.85,6.31,2.03,-0.313,Logging
+A0075,Forest edge,Timber,1.75,2.74,4.06,-0.364,Logging
+A0076,Dense forest,Construction,1.52,1.01,0.6,-0.593,Infrastructure
+A0077,Forest edge,Farming,1.32,2.72,2.37,-0.518,Agriculture
+A0078,Dense forest,Construction,3.35,0.42,2.51,-0.359,Infrastructure
+A0079,Dense forest,Timber,2.55,3.96,14.88,-0.451,Logging
+A0080,Forest edge,Timber,2.58,1.6,6.92,-0.486,Logging
+A0081,Shrubland,Farming,1.02,2.65,4.08,-0.393,Agriculture
+A0082,Forest edge,Farming,1.58,3.65,1.99,-0.227,Agriculture
+A0083,Forest edge,Timber,2.4,3.74,9.01,-0.601,Logging
+A0084,Forest edge,Construction,1.18,1.87,0.87,-0.356,Infrastructure
+A0085,Forest edge,Farming,1.77,1.53,1.45,-0.512,Agriculture
+A0086,Forest edge,Timber,0.69,3.94,10.7,-0.623,Logging
+A0087,Forest edge,Timber,2.17,7.67,3.92,-0.472,Logging
+A0088,Forest edge,Timber,2.61,1.98,5.53,-0.392,Logging
+A0089,Forest edge,Timber,2.19,3.61,3.64,-0.598,Logging
+A0090,Dense forest,Timber,0.33,6.5,5.55,-0.402,Logging
+A0091,Dense forest,Timber,1.48,3.78,2.31,-0.569,Logging
+A0092,Dense forest,Timber,0.14,5.72,8.01,-0.589,Logging
+A0093,Forest edge,Timber,1.69,4.25,3.5,-0.67,Logging
+A0094,Forest edge,Farming,0.5,1.6,4.76,-0.609,Agriculture
+A0095,Forest edge,Timber,1.36,7.79,9.76,-0.452,Logging
+A0096,Forest edge,Timber,2.65,5.48,5.98,-0.266,Logging
+A0097,Forest edge,Timber,2.66,7.62,12.5,-0.571,Logging
+A0098,Dense forest,Construction,1.11,0.89,0.16,-0.514,Infrastructure
+A0099,Dense forest,Construction,2.83,0.46,2.28,-0.371,Infrastructure
+A0100,Dense forest,Timber,1.38,6.64,6.26,-0.626,Logging
+A0101,Forest edge,Farming,1.56,3.69,3.77,-0.264,Agriculture
+A0102,Forest edge,Timber,1.31,7.59,4.84,-0.585,Logging
+A0103,Dense forest,Timber,1.25,7.0,12.47,-0.46,Logging
+A0104,Shrubland,Farming,2.18,1.85,3.86,-0.214,Agriculture
+A0105,Forest edge,Farming,2.66,3.74,3.2,-0.212,Agriculture
+A0106,Forest edge,Farming,1.52,0.21,5.51,-0.209,Agriculture
+A0107,Forest edge,Construction,3.14,1.63,0.2,-0.384,Infrastructure
+A0108,Dense forest,Timber,1.22,3.68,11.38,-0.683,Logging
+A0109,Forest edge,Construction,3.57,1.45,0.35,-0.641,Infrastructure
+A0110,Forest edge,Farming,1.63,2.77,3.39,-0.485,Agriculture
+A0111,Forest edge,Timber,0.89,0.92,10.09,-0.693,Logging
+A0112,Forest edge,Farming,0.57,1.09,0.66,-0.622,Agriculture
+A0113,Forest edge,Timber,0.14,6.99,12.45,-0.274,Logging
+A0114,Shrubland,Farming,1.16,0.35,3.5,-0.557,Agriculture
+A0115,Forest edge,Farming,0.75,3.75,2.96,-0.563,Agriculture
+A0116,Forest edge,Timber,1.02,0.62,12.75,-0.514,Logging
+A0117,Dense forest,Construction,2.98,0.74,2.5,-0.657,Infrastructure
+A0118,Forest edge,Farming,2.54,3.82,5.39,-0.608,Agriculture
+A0119,Dense forest,Construction,2.29,0.96,3.17,-0.71,Infrastructure
+A0120,Dense forest,Timber,0.37,5.17,5.77,-0.36,Logging
+A0121,Forest edge,Farming,1.84,1.8,0.92,-0.517,Agriculture
+A0122,Forest edge,Construction,2.32,0.35,0.53,-0.433,Infrastructure
+A0123,Shrubland,Farming,1.0,3.86,1.37,-0.23,Agriculture
+A0124,Dense forest,Timber,2.42,5.0,10.15,-0.421,Logging
+A0125,Dense forest,Timber,1.35,2.83,9.89,-0.561,Logging
+A0126,Forest edge,Timber,1.91,1.93,9.26,-0.608,Logging
+A0127,Dense forest,Timber,0.74,3.41,14.71,-0.306,Logging
+A0128,Forest edge,Timber,0.15,4.95,4.46,-0.536,Logging
+A0129,Forest edge,Construction,3.13,1.57,0.87,-0.273,Infrastructure
+A0130,Shrubland,Farming,1.33,3.53,4.67,-0.453,Agriculture
+A0131,Dense forest,Timber,1.5,1.08,14.15,-0.585,Logging
+A0132,Dense forest,Construction,2.97,0.99,1.15,-0.281,Infrastructure
+A0133,Forest edge,Timber,2.41,5.45,13.79,-0.251,Logging
+A0134,Dense forest,Construction,1.17,0.87,0.81,-0.716,Infrastructure
+A0135,Dense forest,Construction,2.77,1.39,2.01,-0.571,Infrastructure
+A0136,Forest edge,Timber,2.08,2.79,9.73,-0.383,Logging
+A0137,Dense forest,Construction,0.55,1.99,1.2,-0.367,Infrastructure
+A0138,Forest edge,Timber,2.06,6.82,3.07,-0.636,Logging
+A0139,Shrubland,Farming,1.95,0.54,4.72,-0.301,Agriculture
+A0140,Dense forest,Construction,2.25,1.04,1.5,-0.607,Infrastructure
+A0141,Shrubland,Farming,2.58,1.2,0.93,-0.63,Agriculture
+A0142,Dense forest,Construction,2.17,1.88,2.03,-0.569,Infrastructure
+A0143,Forest edge,Farming,0.78,2.81,4.78,-0.317,Agriculture
+A0144,Forest edge,Construction,4.52,0.38,3.84,-0.187,Infrastructure
+A0145,Dense forest,Timber,1.02,5.21,8.75,-0.684,Logging
+A0146,Dense forest,Timber,1.78,6.04,14.72,-0.529,Logging
+A0147,Forest edge,Construction,4.64,1.4,1.27,-0.64,Infrastructure
+A0148,Dense forest,Construction,3.39,0.82,3.05,-0.75,Infrastructure
+A0149,Dense forest,Construction,4.64,0.87,1.18,-0.32,Infrastructure
+A0150,Dense forest,Construction,2.06,0.04,3.05,-0.242,Infrastructure
+A0151,Shrubland,Farming,1.01,1.1,3.32,-0.65,Agriculture
+A0152,Forest edge,Timber,1.57,3.63,2.28,-0.366,Logging
+A0153,Dense forest,Timber,1.97,5.84,10.43,-0.438,Logging
+A0154,Dense forest,Construction,3.39,0.95,2.97,-0.307,Infrastructure
+A0155,Dense forest,Construction,4.39,1.08,2.8,-0.73,Infrastructure
+A0156,Forest edge,Timber,0.78,7.44,13.07,-0.467,Logging
+A0157,Shrubland,Farming,3.0,2.72,3.93,-0.402,Agriculture
+A0158,Forest edge,Timber,0.63,6.09,2.2,-0.482,Logging
+A0159,Forest edge,Construction,2.11,1.25,2.42,-0.793,Infrastructure
+A0160,Dense forest,Construction,3.1,0.34,1.08,-0.686,Infrastructure
+A0161,Dense forest,Construction,1.24,1.86,2.38,-0.349,Infrastructure
+A0162,Shrubland,Farming,2.27,3.2,1.75,-0.287,Agriculture
+A0163,Dense forest,Construction,2.14,1.97,1.21,-0.539,Infrastructure
+A0164,Shrubland,Farming,0.25,0.41,1.64,-0.63,Agriculture
+A0165,Forest edge,Timber,2.56,7.44,4.59,-0.574,Logging
+A0166,Forest edge,Construction,3.14,0.23,3.44,-0.341,Infrastructure
+A0167,Dense forest,Construction,2.45,2.0,0.74,-0.548,Infrastructure
+A0168,Forest edge,Farming,3.27,3.45,1.65,-0.276,Agriculture
+A0169,Dense forest,Timber,1.93,4.6,5.88,-0.693,Logging
+A0170,Forest edge,Construction,2.53,1.9,0.72,-0.251,Infrastructure
+A0171,Forest edge,Farming,3.19,2.75,0.74,-0.636,Agriculture
+A0172,Forest edge,Farming,3.48,0.44,0.77,-0.625,Agriculture
+A0173,Forest edge,Farming,2.77,1.13,3.02,-0.33,Agriculture
+A0174,Forest edge,Farming,1.97,2.36,2.11,-0.546,Agriculture
+A0175,Forest edge,Construction,2.62,1.45,1.31,-0.475,Infrastructure
+A0176,Forest edge,Farming,2.51,0.47,3.08,-0.45,Agriculture
+A0177,Forest edge,Construction,4.15,0.01,3.68,-0.315,Infrastructure
+A0178,Dense forest,Construction,2.7,1.91,2.15,-0.243,Infrastructure
+A0179,Forest edge,Construction,3.1,1.29,3.37,-0.499,Infrastructure
+A0180,Shrubland,Farming,2.99,0.45,2.33,-0.475,Agriculture
+A0181,Dense forest,Construction,0.72,1.97,2.19,-0.682,Infrastructure
+A0182,Forest edge,Timber,2.4,5.38,9.02,-0.437,Logging
+A0183,Dense forest,Construction,1.3,0.09,2.15,-0.324,Infrastructure
+A0184,Forest edge,Timber,0.34,7.45,5.91,-0.388,Logging
+A0185,Forest edge,Construction,1.25,0.51,0.7,-0.179,Infrastructure
+A0186,Forest edge,Construction,4.74,0.85,0.83,-0.586,Infrastructure
+A0187,Dense forest,Construction,0.65,0.54,3.88,-0.32,Infrastructure
+A0188,Forest edge,Timber,2.65,7.56,2.7,-0.589,Logging
+A0189,Forest edge,Timber,2.12,1.29,11.59,-0.529,Logging
+A0190,Forest edge,Timber,0.89,5.03,11.15,-0.561,Logging
+A0191,Forest edge,Timber,1.15,2.64,11.6,-0.392,Logging
+A0192,Forest edge,Farming,1.43,1.82,2.06,-0.53,Agriculture
+A0193,Forest edge,Farming,2.61,2.83,3.82,-0.392,Agriculture
+A0194,Shrubland,Farming,0.34,3.88,1.55,-0.606,Agriculture
+A0195,Forest edge,Farming,2.47,0.23,3.64,-0.37,Agriculture
+A0196,Dense forest,Timber,0.22,6.79,2.85,-0.588,Logging
+A0197,Forest edge,Timber,2.48,1.21,3.44,-0.596,Logging
+A0198,Forest edge,Timber,1.53,6.31,4.47,-0.614,Logging
+A0199,Forest edge,Farming,2.33,2.86,1.52,-0.54,Agriculture
+A0200,Forest edge,Construction,2.72,0.63,3.14,-0.374,Infrastructure
+A0201,Forest edge,Construction,1.29,0.99,2.47,-0.566,Infrastructure
+A0202,Forest edge,Timber,0.25,2.97,12.52,-0.652,Logging
+A0203,Dense forest,Construction,1.49,0.74,0.56,-0.156,Infrastructure
+A0204,Dense forest,Timber,2.13,1.12,12.53,-0.596,Logging
+A0205,Forest edge,Timber,0.27,3.98,13.82,-0.642,Logging
+A0206,Forest edge,Timber,1.83,7.05,12.97,-0.607,Logging
+A0207,Forest edge,Timber,1.11,2.19,11.58,-0.348,Logging
+A0208,Forest edge,Construction,2.85,1.46,0.64,-0.483,Infrastructure
+A0209,Forest edge,Construction,3.6,0.83,3.48,-0.266,Infrastructure
+A0210,Shrubland,Farming,2.44,3.76,4.06,-0.601,Agriculture
+A0211,Forest edge,Timber,1.99,1.31,2.5,-0.434,Logging
+A0212,Dense forest,Construction,0.52,0.78,1.76,-0.259,Infrastructure
+A0213,Dense forest,Construction,3.57,0.6,0.9,-0.175,Infrastructure
+A0214,Shrubland,Farming,1.76,3.51,1.54,-0.646,Agriculture
+A0215,Forest edge,Farming,0.53,1.47,1.08,-0.409,Agriculture
+A0216,Shrubland,Farming,0.8,0.65,3.45,-0.282,Agriculture
+A0217,Dense forest,Construction,1.78,0.98,3.3,-0.333,Infrastructure
+A0218,Shrubland,Farming,3.3,2.3,3.61,-0.535,Agriculture
+A0219,Forest edge,Farming,2.6,2.46,4.45,-0.313,Agriculture
+A0220,Dense forest,Timber,1.45,3.74,10.14,-0.43,Logging
+A0221,Forest edge,Construction,1.58,0.28,2.82,-0.458,Infrastructure
+A0222,Forest edge,Timber,1.44,1.26,13.92,-0.283,Logging
+A0223,Forest edge,Construction,4.11,0.59,1.73,-0.421,Infrastructure
+A0224,Forest edge,Timber,1.41,7.33,10.74,-0.3,Logging
+A0225,Forest edge,Construction,1.42,1.46,0.73,-0.484,Infrastructure
+A0226,Dense forest,Timber,1.18,7.28,9.45,-0.382,Logging
+A0227,Dense forest,Timber,1.23,3.16,9.01,-0.501,Logging
+A0228,Shrubland,Farming,0.82,3.28,1.97,-0.408,Agriculture
+A0229,Forest edge,Farming,2.8,1.29,4.85,-0.541,Agriculture
+A0230,Dense forest,Construction,2.14,1.28,3.9,-0.415,Infrastructure
+A0231,Forest edge,Construction,2.44,0.5,2.41,-0.363,Infrastructure
+A0232,Forest edge,Farming,0.33,3.27,2.38,-0.472,Agriculture
+A0233,Dense forest,Timber,1.37,7.19,9.33,-0.325,Logging
+A0234,Shrubland,Farming,2.25,2.09,1.86,-0.385,Agriculture
+A0235,Forest edge,Farming,3.27,1.21,5.96,-0.461,Agriculture
+A0236,Forest edge,Timber,2.71,6.86,4.89,-0.646,Logging
+A0237,Forest edge,Construction,0.95,1.99,1.18,-0.592,Infrastructure
+A0238,Forest edge,Farming,2.44,3.17,1.97,-0.408,Agriculture
+A0239,Forest edge,Farming,2.13,3.06,3.55,-0.554,Agriculture
+A0240,Shrubland,Farming,1.87,1.88,2.83,-0.618,Agriculture
